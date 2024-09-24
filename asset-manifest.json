@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react/static/css/main.a638d0d5.css",
+    "main.js": "/react/static/js/main.a250e0ab.js",
+    "static/js/453.aaebbec3.chunk.js": "/react/static/js/453.aaebbec3.chunk.js",
+    "static/media/galaxy-planets-digital-art.jpg": "/react/static/media/galaxy-planets-digital-art.cc97619eb4d1f318a42c.jpg",
+    "static/media/2.png": "/react/static/media/2.a6f54fc938ca3eaad9c3.png",
+    "static/media/404 error lost in space-rafiki.png": "/react/static/media/404 error lost in space-rafiki.e049c15ed8cec7fce1a6.png",
+    "static/media/1.png": "/react/static/media/1.417de77b46cc562d3f27.png",
+    "static/media/revicons.eot": "/react/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/react/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/react/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/react/index.html",
+    "main.a638d0d5.css.map": "/react/static/css/main.a638d0d5.css.map",
+    "main.a250e0ab.js.map": "/react/static/js/main.a250e0ab.js.map",
+    "453.aaebbec3.chunk.js.map": "/react/static/js/453.aaebbec3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a638d0d5.css",
+    "static/js/main.a250e0ab.js"
+  ]
+}
